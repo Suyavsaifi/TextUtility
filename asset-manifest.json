@@ -1,0 +1,10 @@
+{
+  "files": {
+    "main.js": "/TextUtility/static/js/main.64364eff.js",
+    "index.html": "/TextUtility/index.html",
+    "main.64364eff.js.map": "/TextUtility/static/js/main.64364eff.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.64364eff.js"
+  ]
+}
